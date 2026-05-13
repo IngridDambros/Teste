@@ -1,32 +1,32 @@
-# 🌊 Legado Azul
+💙 Legado Azul
+O histórico completo do seu amor — organizado, seguro e sempre à mão.
+O Legado Azul nasceu da necessidade real de transformar o caos da gestão de cuidados em serenidade. É um ecossistema em desenvolvimento pensado para famílias de pessoas neurodivergentes (TEA, TDAH, AH/SD e outras condições) que processam o mundo de forma única.
 
-> **Transformando a preservação marinha através da tecnologia.**
+Aqui, a tecnologia serve ao afeto. Organizamos em um só lugar tudo o que realmente importa: Educação, Saúde, Terapia e Família.
 
-O **Legado Azul** é uma iniciativa dedicada a conectar pessoas, ciência e conservação para garantir o futuro dos nossos oceanos. Este aplicativo é a ferramenta central para [inserir principal funcionalidade, ex: monitoramento de praias / educação ambiental / mapeamento de espécies].
+🌟 O que o Legado Azul resolve?
+Gerenciar a jornada de uma pessoa neurodivergente envolve centenas de documentos, laudos, evoluções terapêuticas e marcos de desenvolvimento. O app centraliza isso para que você foque no que importa: o vínculo.
 
----
+📅 Histórico Unificado: Chega de pastas perdidas; tenha tudo disponível em segundos.
 
-## 🚀 O que você encontra no App?
+🩺 Saúde & Terapia: Registre evoluções, medicações e orientações profissionais.
 
-*   **Monitoramento em Tempo Real:** Acompanhe dados sobre a saúde do ecossistema local.
-*   **Engajamento Comunitário:** Participe de ações de limpeza e eventos de preservação.
-*   **Educação Ambiental:** Acesse conteúdos exclusivos sobre a fauna e flora marinha.
-*   **Ciência Cidadã:** Contribua com registros e observações diretamente pelo seu celular.
+🏫 Educação: Acompanhe o PEI (Plano de Ensino Individualizado) e a vida escolar.
 
-## 📱 Baixe Agora
+🤝 Conexão Familiar: Compartilhe informações vitais com a rede de apoio de forma segura.
 
-Ajude-nos a proteger o azul do nosso planeta. O app está disponível para as principais plataformas:
+🚀 Acompanhe e Participe
+Estamos em fase ativa de desenvolvimento e você pode fazer parte dessa história:
 
-| Platform | Link de Download |
-| :--- | :--- |
-| **Android** | [Baixar na Play Store](#) |
-| **iOS** | [Baixar na App Store](#) |
-| **Web App** | [Acesse via Browser](#) |
+🌐 Site Oficial: legadoazul.github.io/legadoazul
 
----
+📬 Lista de Espera: Quer ser avisado do lançamento? Reserve seu lugar no site. (Prometemos: sem spam, sem pressão).
 
-## 🤝 Como contribuir?
+📱 Instagram: Siga o dia a dia do projeto em @legadoazulapp.
 
-Se você é desenvolvedor e quer ajudar a evoluir o código do Legado Azul, confira nossas [issues](#) ou entre em contato com a equipe. 
+👩‍🔬 Por trás do código
+Este projeto é movido por dados e guiado pelo coração. O Legado Azul é idealizado e desenvolvido por uma mãe e cientista de dados, unindo o rigor técnico da análise de dados à experiência prática de quem vive a neurodiversidade diariamente.
+
+Construindo hoje o registro que garantirá a autonomia e a memória do amanhã.
 
 **Juntos, somos a voz do oceano.**
