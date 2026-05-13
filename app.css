@@ -64,8 +64,8 @@
         gap: 0;
     }
 
-    .imp-logo { margin-bottom: 48px; display: flex; justify-content: center; }
-    .lg-logo  { margin-bottom: 24px; display: flex; justify-content: flex-start; }
+    .imp-logo { margin-bottom: 5px; display: flex; justify-content: center; }
+    .lg-logo  { margin-bottom: 5px; display: flex; justify-content: flex-start; }
 
     .imp-frase {
         font-size:1.1rem; font-weight:300; color:var(--azul-escuro);
@@ -1153,3 +1153,10 @@
 #tela-linhatempo .ni {
     flex-shrink: 0;
 }
+#tela-impacto {
+    gap: 0;
+    padding-top: 20px;
+}
+
+.imp-logo { margin-bottom: 10px; }
+.imp-frase { margin-bottom: 8px; }
