@@ -1173,7 +1173,7 @@ function mostrarSeletorRede() {
     body.innerHTML = `
         <div style="flex:1;overflow-y:auto;padding:14px">
             <div class="rede-regras-banner" style="margin-bottom:14px">
-                <p>💙 A <strong>Rede Legado</strong> é um espaço de apoio entre famílias de pessoas com TEA.<br>
+                <p>💙 A <strong>Rede Legado</strong> é um espaço de apoio entre famílias.<br>
                 Para <strong>escrever</strong>, só no município do seu CEP cadastrado.<br>
                 <strong>Política:</strong> sem política, religião, propagandas ou discriminação.</p>
             </div>
