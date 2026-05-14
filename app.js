@@ -1304,3 +1304,24 @@ function criarTelaRedeLegado() {
         mostrarChatRede(d.rede.estado, d.rede.municipio);
     } else mostrarSeletorRede();
 }
+function formatarCEP(input) {
+    let v = input.value.replace(/\D/g, '').slice(0, 8);
+    if (v.length > 5) v = v.slice(0,5) + '-' + v.slice(5);
+    input.value = v;
+
+    if (v.length === 9) {
+        fetch(`https://viacep.com.br/ws/${v.replace('-','')}/json/`)
+            .then(r => r.json())
+            .then(d => {
+                const el = document.getElementById('mo-cep-cidade');
+                if (!d.erro) {
+                    el.textContent = `📍 ${d.localidade} — ${d.uf}`;
+                    el.style.display = 'block';
+                } else {
+                    el.textContent = 'CEP não encontrado';
+                    el.style.display = 'block';
+                }
+            })
+            .catch(() => {});
+    }
+}
