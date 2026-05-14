@@ -752,7 +752,11 @@
         <div class="cg"><label class="cl">Nome completo</label><input type="text" class="ci" id="mo-nome" placeholder="Seu nome completo"></div>
         <div class="cg"><label class="cl">E-mail</label><input type="email" class="ci" id="mo-email" placeholder="seu@email.com"></div>
         <div class="cg"><label class="cl">Telefone</label><input type="tel" class="ci" id="mo-tel" placeholder="(00) 00000-0000"></div>
-        <div class="cg">
+    <div class="cg">
+        <label class="cl">CEP</label>
+        <input type="text" class="ci" id="mo-cep" placeholder="00000-000" maxlength="9" oninput="formatarCEP(this)">
+        <small id="mo-cep-cidade" style="font-size:.7rem;color:#2d83b0;margin-top:4px;display:none"></small>
+    </div>
             <label class="cl">Quem é você?</label>
             <div class="mo-perfis">
                 <button class="mo-perfil-btn" id="mpb-familia" onclick="selecionarPerfil('familia')"><span class="mo-perfil-icon"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg></span><span class="mo-perfil-label">Família</span><span class="mo-perfil-sub">Responsável ou cuidador</span></button>
